@@ -7,5 +7,7 @@ seminar is seminar
 Explain how to run the automated tests for this system
 
 ```
+# to get download chromedriver
+./download_chromedriver.py
 DJANGO_SETTINGS_MODULE=seminar.settings.local pytest
 ```
