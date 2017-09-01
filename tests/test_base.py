@@ -1,4 +1,4 @@
-from semiar.tests.testbase import FunctionalTest
+from tests.testbase import FunctionalTest
 
 class TestBase(FunctionalTest):
     def test_base1(self):
